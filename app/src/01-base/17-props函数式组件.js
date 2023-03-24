@@ -10,7 +10,7 @@ export default class App extends Component {
         <Navbar title="导航"></Navbar>
 
         {/* 函数式组件 */}
-        <Sidebar bg="yellow"></Sidebar>
+        <Sidebar bg="yellow" position="right"></Sidebar>
       </div>
     );
   }
